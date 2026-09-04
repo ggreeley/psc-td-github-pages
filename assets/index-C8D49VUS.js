@@ -38,7 +38,7 @@ Click the button below to add a new entry.`,noEntriesReadonlyText:`No entries`,t
           ${c}
           <div class="dfcr-recall-main">
             <input type="text" id="dfcr-recall-input" autocomplete="off" autofocus />
-            <ol id="dfcr-recall-list"></ol>
+            <ul id="dfcr-recall-list"></ul>
           </div>
         </div>
       </div>
